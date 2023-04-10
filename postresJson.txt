@@ -1,0 +1,267 @@
+{"postres":[
+{"nombrePostre" :"Tarta de piña invertida:",
+"ingredientes" :" 1 lata de piña en almíbar, 1/4 taza de mantequilla, 1/2 taza de azúcar morena1 taza de harina,1 cucharadita de polvo para hornear,1/4 cucharadita de sal ,1/2 taza de leche, 1 huevo",
+"preparacion" :" Precalentar el horno a 180 grados Celsius, En un molde para tarta, derretir la mantequilla y esparcirla por todo el fondo, Espolvorear la azúcar morena sobre la mantequilla. Colocar las rodajas de piña encima de la azúcar morena, formando una capa uniforme. En un bol, mezclar la harina, el polvo para hornear y la sal. En otro bol, batir el huevo y agregar la leche.Agregar la mezcla de harina a la mezcla de huevo, poco a poco, y mezclar hasta que todo esté bien incorporado. Verter la mezcla de masa sobre las rodajas de piña .Hornear durante unos 30-35 minutos, o hasta que la tarta esté dorada y firme.  Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Brochetas de frutas tropicales:",
+"ingredientes" :" 1 taza de piña en cubos, 1 taza de mango en cubos, 1 taza de papaya en cubos1/2 taza de coco rallado, Palitos de brocheta",
+"preparacion" :" Ensartar los cubos de frutas en los palitos de brocheta, alternando los diferentes tipos de frutas. Espolvorear el coco rallado sobre las brochetas. hervir como postre o como aperitivo."
+
+},
+{"nombrePostre" :"Ensalada de piña y yogur:",
+"ingredientes" :" 1 taza de piña en cubos, 1/2 taza de yogur griego, 1/4 taza de nueces picadas1 cucharada de miel",
+"preparacion" :" Colocar la piña en un bol.  Mezclar el yogur griego con la miel y verter sobre la piña.Espolvorear las nueces picadas sobre la ensalada. Servir frío."
+
+},
+{"nombrePostre" :"Tarta de manzana",
+"ingredientes" :" 1 masa de hojaldre, 4 manzanas, 2 cucharadas de azúcar, 2 cucharadas de canela en polvo, 1 huevo.",
+"preparacion" :" Precalentar el horno a 180°C. Pelar y cortar las manzanas en rodajas finas. Colocar la masa de hojaldre en un molde para tarta y pinchar con un tenedor. Colocar las rodajas de manzana sobre la masa y espolvorear con azúcar y canela. Doblar los bordes de la masa hacia adentro. Batir el huevo y pincelar los bordes de la masa. Hornear durante 35-40 minutos, hasta que la masa esté dorada."
+
+},
+{"nombrePostre" :"Brownies de chocolate",
+"ingredientes" :" 200 gramos de chocolate negro, 100 gramos de mantequilla, 150 gramos de azúcar, 3 huevos, 100 gramos de harina, 1 cucharadita de levadura en polvo, 1 pizca de sal.",
+"preparacion" :" Precalentar el horno a 180°C. Fundir el chocolate y la mantequilla al baño maría. Batir los huevos y el azúcar hasta obtener una mezcla homogénea. Añadir la harina, la levadura y la sal y mezclar bien. Agregar la mezcla de chocolate y mezclar de nuevo. Verter la mezcla en un molde para hornear y hornear durante 20-25 minutos."
+
+},
+{"nombrePostre" :"Flan de caramelo",
+"ingredientes" :" 1 taza de azúcar, 4 huevos, 2 tazas de leche, 1 cucharadita de vainilla.",
+"preparacion" :" Precalentar el horno a 180°C. Colocar el azúcar en una cacerola y calentar a fuego medio hasta que se derrita y se convierta en caramelo. Verter el caramelo en un molde para flan y extender bien. Batir los huevos y añadir la leche y la vainilla. Verter la mezcla en el molde para flan. Colocar el molde dentro de una fuente con agua y hornear durante 45-50 minutos, hasta que el flan esté firme. Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Ensalada de mango y yogurt",
+"ingredientes" :" 2 mangos, 1 taza de yogur griego, 2 cucharadas de miel, 1 cucharadita de extracto de vainilla, 1/4 taza de nueces picadas.",
+"preparacion" :" Pelar y cortar los mangos en cubos. En un tazón, mezclar el yogur, la miel y el extracto de vainilla hasta que estén bien combinados. Agregar los cubos de mango y mezclar. Espolvorear con nueces picadas y servir."
+
+},
+{"nombrePostre" :"Sorbete de mango",
+"ingredientes" :" 3 mangos, 1 taza de agua, 1/2 taza de azúcar, 1 cucharada de jugo de limón.",
+"preparacion" :" Pelar y cortar los mangos en cubos. En una cacerola, mezclar el agua y el azúcar y calentar a fuego medio hasta que el azúcar se disuelva. Agregar los cubos de mango y el jugo de limón y mezclar bien. Dejar enfriar y luego triturar la mezcla en una licuadora. Verter la mezcla en un recipiente apto para congelar y congelar durante al menos 4 horas. Servir el sorbete con trozos de mango fresco."
+
+},
+{"nombrePostre" :"Cheesecake de mango:",
+"ingredientes" :" 1 taza de galletas trituradas, 1/4 taza de mantequilla derretida, 3 mangos, 500 gramos de queso crema, 1 taza de azúcar, 3 huevos, 1/2 taza de crema agria, 1 cucharada de extracto de vainilla.",
+"preparacion" :" Precalentar el horno a 180°C. En un tazón, mezclar las galletas trituradas y la mantequilla derretida hasta que estén bien combinadas. Verter la mezcla en un molde para pastel y presionar firmemente para formar la base. Pelar y cortar los mangos en cubos. En un tazón, batir el queso crema y el azúcar hasta que estén suaves. Agregar los huevos uno por uno, mezclando bien después de cada adición. Agregar la crema agria y el extracto de vainilla y mezclar. Agregar los cubos de mango y mezclar suavemente. Verter la mezcla en el molde para pastel y hornear durante 50-55 minutos, hasta que esté firme. Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Tarta de fresas:",
+"ingredientes" :" 1 1/2 taza de harina, 1/2 taza de mantequilla, 1/4 taza de azúcar, 1 huevo, 3 tazas de fresas frescas, 1/2 taza de azúcar, 1/4 taza de agua, 2 cucharadas de maicena.",
+"preparacion" :" Precalentar el horno a 180°C. En un tazón grande, mezclar la harina, la mantequilla, el azúcar y el huevo hasta obtener una masa uniforme. Estirar la masa en un molde para tartas y hornear durante 10-12 minutos, hasta que esté dorada. En una cacerola, mezclar las fresas, el azúcar, el agua y la maicena. Cocinar a fuego medio durante unos 5 minutos, hasta que la mezcla se espese. Verter la mezcla de fresas en la masa horneada y dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Smoothie de fresa:",
+"ingredientes" :" 2 tazas de fresas frescas, 1 taza de yogur griego, 1/2 taza de leche, 2 cucharadas de miel.",
+"preparacion" :" En una licuadora, mezclar las fresas, el yogur griego, la leche y la miel hasta obtener un batido suave y cremoso. Servir en vasos y decorar con rodajas de fresas frescas."
+
+},
+{"nombrePostre" :"Mousse de fresa:",
+"ingredientes" :" 2 tazas de fresas frescas, 1 taza de crema batida, 1/2 taza de azúcar, 1 cucharada de gelatina sin sabor.",
+"preparacion" :" En una cacerola, mezclar las fresas y el azúcar y cocinar a fuego medio durante unos 5 minutos, hasta que las fresas se hayan ablandado. Licuar la mezcla de fresas y colar para eliminar las semillas. En un tazón, batir la crema batida hasta que esté espesa. En una cacerola pequeña, mezclar la gelatina sin sabor con 1/4 de taza de agua y calentar a fuego medio hasta que la gelatina se disuelva por completo. Agregar la mezcla de gelatina a la mezcla de fresas y mezclar bien. Agregar la crema batida y mezclar suavemente. Verter la mezcla en copas individuales y refrigerar durante al menos 2 horas antes de servir."
+
+},
+{"nombrePostre" :"Tarta de melocotón y almendra:",
+"ingredientes" :" 1 1/2 tazas de harina, 1/2 taza de mantequilla, 1/4 taza de azúcar, 1 huevo, 4-5 melocotones frescos, 1/2 taza de azúcar, 1/2 taza de almendras molidas, 2 huevos, 1 cucharadita de extracto de vainilla.",
+"preparacion" :" Precalentar el horno a 180°C. En un tazón grande, mezclar la harina, la mantequilla, el azúcar y el huevo hasta obtener una masa uniforme. Estirar la masa en un molde para tartas y hornear durante 10-12 minutos, hasta que esté dorada. Pelar y cortar los melocotones en trozos. En un tazón grande, mezclar los melocotones, el azúcar, las almendras molidas, los huevos y el extracto de vainilla. Verter la mezcla de melocotón en la masa horneada y hornear durante unos 25-30 minutos, hasta que esté dorada y firme. Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Helado de melocotón:",
+"ingredientes" :" 4-5 melocotones frescos, 1 taza de leche, 1 taza de crema de leche, 1/2 taza de azúcar, 1 cucharadita de extracto de vainilla.",
+"preparacion" :" Pelar y cortar los melocotones en trozos y licuar junto con la leche, la crema de leche, el azúcar y el extracto de vainilla. Verter la mezcla en una máquina para hacer helados y seguir las instrucciones del fabricante para hacer el helado. Servir el helado de melocotón recién hecho o congelarlo durante unas horas para obtener una consistencia más firme."
+
+},
+{"nombrePostre" :"Compota de melocotón y canela:",
+"ingredientes" :" 4-5 melocotones frescos, 1/2 taza de agua, 1/2 taza de azúcar, 1 cucharadita de canela molida.",
+"preparacion" :" Pelar y cortar los melocotones en trozos. En una cacerola, mezclar los melocotones, el agua, el azúcar y la canela. Cocinar a fuego medio durante unos 15-20 minutos, hasta que los melocotones estén suaves y la mezcla se haya espesado. Servir la compota de melocotón y canela caliente o fría, según lo desees."
+
+},
+{"nombrePostre" :"Granita de sandía:",
+"ingredientes" :" 1/2 sandía pequeña, 1/2 taza de azúcar, 1/2 taza de agua, jugo de 1 limón.",
+"preparacion" :" Pelar y cortar la sandía en trozos. En una licuadora, mezclar la sandía hasta obtener un puré. En una cacerola, mezclar el azúcar y el agua y llevar a fuego medio, revolviendo hasta que el azúcar se haya disuelto. Retirar del fuego y agregar el puré de sandía y el jugo de limón. Verter la mezcla en un recipiente poco profundo y congelar durante unas horas. Cada media hora, raspar la superficie de la granita con un tenedor para formar cristales de hielo. Servir la granita de sandía en copas."
+
+},
+{"nombrePostre" :"Ensalada de sandía y queso feta:",
+"ingredientes" :" 4 tazas de sandía cortada en cubos, 1/2 taza de queso feta desmenuzado, 1/4 taza de hojas de menta fresca picadas, 1/4 taza de aceite de oliva, 1 cucharada de vinagre balsámico.",
+"preparacion" :" En un tazón grande, mezclar la sandía, el queso feta y la menta. En otro tazón, mezclar el aceite de oliva y el vinagre balsámico. Agregar la mezcla de aceite y vinagre a la ensalada y mezclar bien. Servir la ensalada de sandía y queso feta fría."
+
+},
+{"nombrePostre" :"Sorbete de sandía:",
+"ingredientes" :" 4 tazas de sandía cortada en cubos, 1/2 taza de azúcar, 1/2 taza de agua, jugo de 1 limón.",
+"preparacion" :" Pelar y cortar la sandía en trozos. En una licuadora, mezclar la sandía hasta obtener un puré. En una cacerola, mezclar el azúcar y el agua y llevar a fuego medio, revolviendo hasta que el azúcar se haya disuelto. Retirar del fuego y agregar el puré de sandía y el jugo de limón. Dejar enfriar a temperatura ambiente y luego refrigerar durante unas horas. Verter la mezcla en una máquina para hacer sorbetes y seguir las instrucciones del fabricante para hacer el sorbete. Servir el sorbete de sandía recién hecho o congelarlo durante unas horas para obtener una consistencia más firme."
+
+},
+{"nombrePostre" :"Cheesecake de guayaba:",
+"ingredientes" :" 1 taza de galletas trituradas, 1/4 taza de mantequilla derretida, 16 oz de queso crema, 1 taza de puré de guayaba dulce, 1 taza de azúcar, 4 huevos, 1 cucharadita de extracto de vainilla.",
+"preparacion" :" Precalentar el horno a 180°C. En un tazón, mezclar las galletas trituradas y la mantequilla derretida. Colocar la mezcla de galletas en el fondo de un molde para pastel y presionar hacia abajo. En otro tazón, batir el queso crema, el puré de guayaba, el azúcar, los huevos y el extracto de vainilla hasta que estén bien combinados. Verter la mezcla de queso crema en el molde para pastel y hornear durante 45-50 minutos. Dejar enfriar completamente antes de servir."
+
+},
+{"nombrePostre" :"Dulce de guayaba:",
+"ingredientes" :" 1 kg de guayabas dulces, 2 tazas de azúcar, 1 taza de agua.",
+"preparacion" :" Pelar y cortar las guayabas en trozos. En una cacerola, mezclar el azúcar y el agua y llevar a ebullición, revolviendo hasta que el azúcar se haya disuelto. Agregar los trozos de guayaba a la cacerola y cocinar a fuego medio-bajo durante aproximadamente una hora, revolviendo de vez en cuando, hasta que la mezcla espese y las guayabas se hayan desintegrado. Dejar enfriar y servir."
+
+},
+{"nombrePostre" :"Ensalada de guayaba y mango:",
+"ingredientes" :" 2 tazas de guayabas dulces cortadas en cubos, 2 tazas de mango cortado en cubos, 1/2 taza de hojas de menta fresca picadas, 2 cucharadas de miel, 1 cucharada de jugo de limón.",
+"preparacion" :" En un tazón grande, mezclar las guayabas, el mango y la menta. En otro tazón, mezclar la miel y el jugo de limón. Agregar la mezcla de miel y limón a la ensalada y mezclar bien. Servir la ensalada de guayaba y mango fría."
+
+},
+{"nombrePostre" :"Batido de guayaba y yogur:",
+"ingredientes" :" 2 tazas de guayabas dulces cortadas en cubos, 2 tazas de yogur natural, 1/4 taza de miel, hielo.",
+"preparacion" :" En una licuadora, mezclar las guayabas, el yogur y la miel hasta que estén suaves y bien combinados. Agregar hielo y mezclar de nuevo. Servir el batido de guayaba y yogur frío"
+
+},
+{"nombrePostre" :"Tres leches:",
+"ingredientes" :" 1 taza de harina, 1 1/2 cucharaditas de polvo de hornear, 1/2 taza de mantequilla, 1 taza de azúcar, 5 huevos, 1 cucharadita de extracto de vainilla, 1 lata de leche evaporada, 1 lata de leche condensada, 1 taza de crema de leche.",
+"preparacion" :" Precalentar el horno a 180°C. En un tazón, mezclar la harina y el polvo de hornear. En otro tazón, batir la mantequilla y el azúcar hasta que estén cremosos. Agregar los huevos uno a uno, batiendo bien después de cada adición. Agregar la vainilla y mezclar. Agregar la mezcla de harina a la mezcla de mantequilla y mezclar bien. Verter la mezcla en un molde para pastel y hornear durante 25-30 minutos. En un tazón, mezclar la leche evaporada, la leche condensada y la crema de leche. Una vez que el pastel esté listo, hacer pequeños agujeros en la superficie con un tenedor y verter lentamente la mezcla de leche sobre el pastel. Dejar enfriar en el refrigerador durante al menos 2 horas antes de servir."
+
+},
+{"nombrePostre" :"Arroz con leche:",
+"ingredientes" :" 1 taza de arroz, 4 tazas de leche, 1 taza de azúcar, 1 rama de canela, 1 cucharadita de ralladura de limón, canela en polvo para espolvorear.",
+"preparacion" :" En una olla grande, cocinar el arroz en agua hasta que esté tierno. Escurrir y volver a colocar el arroz en la olla. Agregar la leche, el azúcar, la rama de canela y la ralladura de limón. Cocinar a fuego medio, revolviendo ocasionalmente, hasta que la mezcla espese y el arroz esté cremoso, aproximadamente durante 30-40 minutos. Retirar la rama de canela y dejar enfriar antes de servir. Espolvorear con canela en polvo antes de servir."
+
+},
+{"nombrePostre" :"Flan:",
+"ingredientes" :" 1 lata de leche condensada, 1 lata de leche evaporada, 4 huevos, 1 cucharadita de extracto de vainilla, 1/2 taza de azúcar.",
+"preparacion" :" Precalentar el horno a 180°C. En una olla pequeña, derretir el azúcar a fuego medio, revolviendo constantemente, hasta que se forme un caramelo dorado. Verter el caramelo en un molde para flan y extenderlo por toda la superficie. En un tazón grande, mezclar la leche condensada, la leche evaporada, los huevos y el extracto de vainilla hasta que estén bien combinados. Verter la mezcla de leche sobre el caramelo en el molde para flan. Colocar el molde para flan dentro de una"
+
+},
+{"nombrePostre" :"Tarta de uva y queso crema:",
+"ingredientes" :" 1 taza de galletas trituradas, 1/4 taza de mantequilla derretida, 1 paquete de queso crema (8 oz), 1/2 taza de azúcar, 1 cucharadita de extracto de vainilla, 1 taza de uvas sin semillas, 1 cucharada de mermelada de uva.",
+"preparacion" :" Precalentar el horno a 180°C. En un tazón, mezclar las galletas trituradas y la mantequilla derretida. Presionar la mezcla en el fondo de un molde para tarta de 9 pulgadas. En otro tazón, batir el queso crema, el azúcar y el extracto de vainilla hasta que estén cremosos. Verter la mezcla de queso crema sobre la base de galleta en el molde para tarta. Decorar la parte superior con uvas sin semillas. En una olla pequeña, calentar la mermelada de uva hasta que se derrita. Pincelar la mermelada de uva sobre las uvas. Hornear durante 20-25 minutos. Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Helado de uva:",
+"ingredientes" :" 3 tazas de uvas sin semillas, 1 taza de leche, 1/2 taza de crema de leche, 1/2 taza de azúcar, 1 cucharadita de extracto de vainilla.",
+"preparacion" :" En un procesador de alimentos, mezclar las uvas, la leche, la crema de leche, el azúcar y el extracto de vainilla hasta que estén suaves y cremosos. Verter la mezcla en una máquina para hacer helado y seguir las instrucciones del fabricante para hacer el helado. Transferir el helado a un recipiente apto para congelador y congelar durante al menos 2 horas antes de servir."
+
+},
+{"nombrePostre" :"Ensalada de uva y queso feta:",
+"ingredientes" :" 2 tazas de uvas sin semillas, 1/2 taza de queso feta desmenuzado, 1/4 taza de nueces picadas, 2 cucharadas de aceite de oliva, 1 cucharada de vinagre balsámico, sal y pimienta al gusto.",
+"preparacion" :" En un tazón, mezclar las uvas, el queso feta y las nueces picadas. En otro tazón pequeño, mezclar el aceite de oliva, el vinagre balsámico, la sal y la pimienta. Verter la mezcla de vinagreta sobre la ensalada y mezclar bien. Servir frío. Esta ensalada también se puede servir como acompañamiento de platos principales o como guarnición en una tabla de quesos y frutas."
+
+},
+{"nombrePostre" :"Postre de bocadillo con nueces:",
+"ingredientes" :" 1 taza de bocadillo picado, 1/2 taza de nueces picadas, 1/2 taza de miel, 1/4 taza de mantequilla, 1/2 cucharadita de extracto de vainilla, 1/4 cucharadita de canela molida.",
+"preparacion" :" En una sartén, tostar las nueces a fuego medio hasta que estén ligeramente doradas. En una olla pequeña, mezclar el bocadillo, la miel, la mantequilla, el extracto de vainilla y la canela. Calentar a fuego medio, revolviendo constantemente, hasta que la mezcla esté bien mezclada y la mantequilla se haya derretido. Agregar las nueces tostadas y mezclar bien. Verter la mezcla en un molde para hornear engrasado y nivelar la superficie. Refrigerar durante al menos 2 horas antes de servir."
+
+},
+{"nombrePostre" :"Dulce de bocadillo con coco:",
+"ingredientes" :" 2 tazas de bocadillo picado, 1/2 taza de coco rallado, 1 taza de leche de coco, 1/2 taza de azúcar, 1/2 cucharadita de extracto de vainilla.",
+"preparacion" :" En una olla grande, mezclar el bocadillo, el coco rallado, la leche de coco, el azúcar y el extracto de vainilla. Calentar a fuego medio, revolviendo constantemente, hasta que el azúcar se haya disuelto y la mezcla esté bien mezclada. Reducir el fuego a bajo y cocinar por unos 15-20 minutos, revolviendo ocasionalmente, hasta que la mezcla se espese y se forme una masa. Verter la masa en un molde para hornear y nivelar la superficie. Dejar enfriar a temperatura ambiente durante 30 minutos antes de refrigerar durante al menos 2 horas antes de servir."
+
+},
+{"nombrePostre" :"Postre de bocadillo con chocolate:",
+"ingredientes" :" 1 taza de bocadillo picado, 1 taza de chocolate semidulce picado, 1/2 taza de crema de leche, 1/2 cucharadita de extracto de vainilla.",
+"preparacion" :" En un tazón apto para microondas, mezclar el chocolate semidulce y la crema de leche. Calentar en el microondas a intervalos de 30 segundos, revolviendo después de cada intervalo, hasta que el chocolate se haya derretido y la mezcla esté suave. Agregar el bocadillo picado y el extracto de vainilla a la mezcla de chocolate y mezclar bien. Verter la mezcla en un molde para hornear y nivelar la superficie. Refrigerar durante al menos 2 horas antes de servir."
+
+},
+{"nombrePostre" :"Tarta de moras:",
+"ingredientes" :" 1 1/2 tazas de moras frescas, 1/2 taza de azúcar, 1/4 taza de harina para todo uso, 1 cucharadita de jugo de limón, 1 cucharadita de ralladura de limón, 1/4 cucharadita de sal, 1 cucharadita de extracto de vainilla, 1 cucharada de mantequilla, 1 masa para pastel refrigerada.",
+"preparacion" :" Precalentar el horno a 375°F (190°C). En un tazón grande, mezclar las moras, el azúcar, la harina, el jugo y la ralladura de limón, la sal y el extracto de vainilla. Dejar reposar durante unos minutos mientras se prepara la masa. Engrasar un molde para tarta de 9 pulgadas (23 cm) con mantequilla. Colocar la masa para pastel en el molde y presionarla contra el fondo y los lados. Verter la mezcla de moras sobre la masa. Cortar la mantequilla en trozos pequeños y esparcirlos por encima de las moras. Hornear durante unos 45 minutos, o hasta que la masa esté dorada y las moras burbujeantes. Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Coulis de moras:",
+"ingredientes" :" 2 tazas de moras frescas, 1/2 taza de azúcar, 1/4 taza de agua, 1 cucharada de jugo de limón.",
+"preparacion" :" En una olla pequeña, mezclar las moras, el azúcar, el agua y el jugo de limón. Cocinar a fuego medio durante unos 10-15 minutos, revolviendo ocasionalmente, hasta que las moras se hayan deshecho y la mezcla se haya espesado ligeramente. Retirar del fuego y dejar enfriar durante unos minutos. Pasar la mezcla por un colador de malla fina, presionando con una cuchara para extraer todo el líquido. Descartar los sólidos y refrigerar el coulis de moras hasta que esté listo para usar."
+
+},
+{"nombrePostre" :"Helado de moras:",
+"ingredientes" :" 2 tazas de moras frescas, 1 taza de leche, 1 taza de crema de leche, 3/4 taza de azúcar, 1 cucharadita de extracto de vainilla.",
+"preparacion" :" En una olla pequeña, mezclar las moras, la leche, la crema de leche y el azúcar. Calentar a fuego medio, revolviendo constantemente, hasta que el azúcar se haya disuelto y las moras se hayan deshecho. Retirar del fuego y dejar enfriar durante unos minutos. Pasar la mezcla por un colador de malla fina, presionando con una cuchara para extraer todo el líquido. Descartar los sólidos y agregar el extracto de vainilla a la mezcla. Verter la mezcla en una máquina para hacer helados y seguir las instrucciones"
+
+},
+{"nombrePostre" :"Tarta de blueberries:",
+"ingredientes" :" 2 tazas de blueberries frescos, 1/2 taza de azúcar, 1/4 taza de harina para todo uso, 1 cucharadita de jugo de limón, 1 cucharadita de ralladura de limón, 1/4 cucharadita de sal, 1 cucharadita de extracto de vainilla, 1 cucharada de mantequilla, 1 masa para pastel refrigerada.",
+"preparacion" :" Precalentar el horno a 375°F (190°C). En un tazón grande, mezclar los blueberries, el azúcar, la harina, el jugo y la ralladura de limón, la sal y el extracto de vainilla. Dejar reposar durante unos minutos mientras se prepara la masa. Engrasar un molde para tarta de 9 pulgadas (23 cm) con mantequilla. Colocar la masa para pastel en el molde y presionarla contra el fondo y los lados. Verter la mezcla de blueberries sobre la masa. Cortar la mantequilla en trozos pequeños y esparcirlos por encima de los blueberries. Hornear durante unos 45 minutos, o hasta que la masa esté dorada y los blueberries burbujeantes. Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Muffins de blueberries:",
+"ingredientes" :" 2 tazas de harina para todo uso, 2/3 taza de azúcar, 2 cucharaditas de polvo de hornear, 1/2 cucharadita de sal, 1 huevo, 1 taza de leche, 1/4 taza de aceite vegetal, 1 cucharadita de extracto de vainilla, 1 1/2 tazas de blueberries frescos.",
+"preparacion" :" Precalentar el horno a 400°F (200°C). En un tazón grande, mezclar la harina, el azúcar, el polvo de hornear y la sal. En otro tazón, batir el huevo y agregar la leche, el aceite y el extracto de vainilla. Mezclar bien. Verter la mezcla líquida sobre la mezcla seca y mezclar hasta que se forme una masa homogénea. Agregar los blueberries y mezclar suavemente. Colocar la masa en moldes para muffins y hornear durante unos 20-25 minutos, o hasta que los muffins estén dorados y firmes al tacto. Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Smoothie de blueberries:",
+"ingredientes" :" 1 taza de blueberries frescos, 1 plátano maduro, 1 taza de yogur natural, 1/2 taza de leche, 1 cucharada de miel.",
+"preparacion" :" Colocar todos los ingredientes en una licuadora y mezclar hasta que la mezcla esté suave y homogénea. Servir inmediatamente, adornando con algunos blueberries frescos si lo deseas."
+
+},
+{"nombrePostre" :"Chontaduro en almíbar:",
+"ingredientes" :" 1 kilogramo de chontaduros maduros, 1 litro de agua, 1 kilogramo de azúcar, 2 ramas de canela, 1 cucharada de clavos de olor.",
+"preparacion" :" Pelar los chontaduros y cortarlos en cuartos. En una olla grande, hervir el agua con el azúcar, la canela y los clavos de olor durante unos minutos. Agregar los chontaduros y cocinar a fuego medio durante aproximadamente 1 hora, hasta que estén suaves y el almíbar haya espesado. Servir frío."
+
+},
+{"nombrePostre" :"Mousse de chontaduro:",
+"ingredientes" :" 1 kilogramo de chontaduros maduros, 1 taza de crema de leche, 1/2 taza de leche condensada, 1/4 taza de jugo de naranja, 1 cucharadita de extracto de vainilla, 2 sobres de gelatina sin sabor, 1/4 taza de agua.",
+"preparacion" :" Pelar los chontaduros y procesarlos en la licuadora junto con la crema de leche, la leche condensada, el jugo de naranja y el extracto de vainilla, hasta que quede una mezcla suave. Hidratar la gelatina en el agua y disolverla en un baño de maría. Incorporar la gelatina a la mezcla de chontaduro y mezclar bien. Colocar la mezcla en copas o moldes individuales y refrigerar durante al menos 2 horas, o hasta que esté firme. Servir frío."
+
+},
+{"nombrePostre" :"Helado de chontaduro:",
+"ingredientes" :" 1 kilogramo de chontaduros maduros, 2 tazas de crema de leche, 1 taza de leche, 1 taza de azúcar, 1 cucharadita de extracto de vainilla.",
+"preparacion" :" Pelar los chontaduros y procesarlos en la licuadora junto con la crema de leche, la leche, el azúcar y el extracto de vainilla, hasta que quede una mezcla suave. Colocar la mezcla en una máquina para hacer helado y seguir las instrucciones del fabricante. Si no tienes una máquina para hacer helado, puedes colocar la mezcla en un recipiente apto para congelador y remover cada 30 minutos para romper los cristales de hielo, hasta que el helado esté firme. Servir frío."
+
+},
+{"nombrePostre" :"Helado de miel:",
+"ingredientes" :" 2 tazas de crema de leche, 1 taza de leche, 1/2 taza de miel, 4 yemas de huevo, 1 cucharadita de extracto de vainilla.",
+"preparacion" :" En una olla, calentar la crema de leche, la leche y la miel a fuego medio, hasta que la miel se haya disuelto completamente. En un bol aparte, batir las yemas de huevo y agregar un poco de la mezcla caliente de la olla, para temperarlas. Agregar las yemas al resto de la mezcla y cocinar a fuego bajo, revolviendo constantemente, hasta que la mezcla espese y cubra la cuchara. Retirar del fuego, agregar el extracto de vainilla y dejar enfriar en la nevera durante al menos 2 horas. Colocar la mezcla en una máquina para hacer helado y seguir las instrucciones del fabricante. Servir frío."
+
+},
+{"nombrePostre" :"Tarta de queso y miel:",
+"ingredientes" :" 1 paquete de galletas de canela, 6 cucharadas de mantequilla derretida, 1/4 taza de miel, 3 paquetes de queso crema, 1 taza de azúcar, 4 huevos, 1 cucharadita de extracto de vainilla.",
+"preparacion" :" Triturar las galletas de canela en un procesador de alimentos y mezclarlas con la mantequilla derretida. Colocar la mezcla en el fondo de un molde para tarta y presionar para que quede bien compacta. En un bol aparte, batir el queso crema, la miel, el azúcar, los huevos y el extracto de vainilla, hasta que quede una mezcla suave. Colocar la mezcla sobre la base de galletas y hornear a 170 grados Celsius durante unos 45 minutos, o hasta que la superficie esté dorada y firme. Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Crema catalana con miel:",
+"ingredientes" :" 1 litro de leche, 6 yemas de huevo, 1 taza de azúcar, 1/2 taza de miel, 1 rama de canela, la cáscara de medio limón, 3 cucharadas de maicena.",
+"preparacion" :" En una olla, calentar la leche, la canela y la cáscara de limón a fuego medio, hasta que la leche esté caliente pero no hirviendo. En un bol aparte, batir las yemas de huevo, el azúcar, la miel y la maicena, hasta que quede una mezcla suave. Agregar la mezcla de huevo a la leche caliente, revolviendo constantemente, y cocinar a fuego bajo hasta que la mezcla espese y cubra la cuchara. Retirar del fuego, colar para retirar la canela y la cáscara de limón, y dejar enfriar en la nevera durante"
+
+},
+{"nombrePostre" :"Galletas de avena:",
+"ingredientes" :" 1 taza de harina de avena, 1/2 taza de mantequilla derretida, 1/2 taza de azúcar morena, 1 huevo, 1 cucharadita de extracto de vainilla, 1/2 cucharadita de bicarbonato de sodio, 1/4 cucharadita de sal, 1 taza de pasas o chips de chocolate (opcional).",
+"preparacion" :" Precalentar el horno a 180 grados Celsius. En un bol, mezclar la harina de avena, el bicarbonato de sodio y la sal. En otro bol, batir la mantequilla derretida, el azúcar morena, el huevo y el extracto de vainilla, hasta que quede una mezcla suave. Agregar la mezcla de harina de avena a la mezcla de mantequilla y revolver hasta que se combine bien. Agregar las pasas o chips de chocolate, si se desea. Formar bolitas de masa del tamaño de una cucharada y colocarlas en una bandeja para hornear, dejando suficiente espacio entre ellas. Aplastar ligeramente cada bolita con un tenedor. Hornear durante unos 12-15 minutos, o hasta que estén doradas. Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Barras de avena y frutas secas:",
+"ingredientes" :" 2 tazas de avena, 1/2 taza de mantequilla derretida, 1/2 taza de miel, 1/2 taza de frutas secas (pasas, arándanos, etc.), 1/2 taza de nueces picadas (opcional), 1/2 cucharadita de extracto de vainilla.",
+"preparacion" :" Precalentar el horno a 180 grados Celsius. En un bol, mezclar la avena, las frutas secas y las nueces. En otro bol, batir la mantequilla derretida, la miel y el extracto de vainilla, hasta que quede una mezcla suave. Agregar la mezcla de avena a la mezcla de mantequilla y revolver hasta que se combine bien. Colocar la mezcla en una bandeja para hornear y presionar para que quede compacta. Hornear durante unos 25 minutos, o hasta que esté dorada. Dejar enfriar antes de cortar en barras."
+
+},
+{"nombrePostre" :"Pudín de avena y plátano:",
+"ingredientes" :" 1 taza de avena, 2 tazas de leche, 2 plátanos maduros, 1/4 taza de miel, 1 cucharadita de extracto de vainilla, una pizca de sal, canela en polvo al gusto.",
+"preparacion" :" En una olla, mezclar la avena, la leche, el plátano machacado, la miel, el extracto de vainilla, la sal y la canela. Cocinar a fuego medio hasta que la mezcla espese"
+
+},
+{"nombrePostre" :"Arroz con leche de panela:",
+"ingredientes" :" 1 taza de arroz, 4 tazas de leche, 1 taza de panela rallada, 1 rama de canela, 1 cucharadita de extracto de vainilla, una pizca de sal.",
+"preparacion" :" En una olla, mezclar el arroz, la leche, la panela, la rama de canela y la sal. Cocinar a fuego medio hasta que el arroz esté cocido y la mezcla espese. Agregar el extracto de vainilla y revolver bien. Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Flan de panela:",
+"ingredientes" :" 1 taza de panela rallada, 1 taza de leche, 1 taza de crema de leche, 4 huevos, 1 cucharadita de extracto de vainilla.",
+"preparacion" :" Precalentar el horno a 180 grados Celsius. En una olla, calentar la leche y la panela a fuego medio, revolviendo constantemente, hasta que la panela se haya disuelto completamente. En otro bol, batir los huevos y agregar la crema de leche y el extracto de vainilla. Agregar la mezcla de leche y panela a la mezcla de huevo y revolver bien. Colocar la mezcla en un molde para flan y hornear en baño María durante unos 45 minutos, o hasta que esté firme. Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Postre de natas con panela:",
+"ingredientes" :" 1 litro de nata, 1 taza de panela rallada, 1 cucharadita de extracto de vainilla.",
+"preparacion" :" En una olla, calentar la nata a fuego medio hasta que hierva. Agregar la panela y el extracto de vainilla, y revolver bien. Cocinar a fuego bajo hasta que la mezcla espese. Dejar enfriar antes de servir, preferiblemente en copas individuales. Puedes decorar con un poco de canela en polvo o trocitos de panela."
+
+},
+{"nombrePostre" :"Cheesecake de maracuyá:",
+"ingredientes" :" 1 taza de galletas molidas, 1/4 taza de mantequilla derretida, 2 paquetes de queso crema, 1/2 taza de azúcar, 1/2 taza de puré de maracuyá, 3 huevos, 1 cucharadita de extracto de vainilla.",
+"preparacion" :" Precalentar el horno a 180 grados Celsius. Mezclar las galletas molidas con la mantequilla derretida y presionar la mezcla en el fondo de un molde para cheesecake. En otro bol, batir el queso crema con el azúcar hasta que esté suave. Agregar el puré de maracuyá, los huevos y el extracto de vainilla, y batir hasta que todo esté bien combinado. Verter la mezcla sobre la base de galletas y hornear durante unos 45 minutos o hasta que el cheesecake esté firme. Dejar enfriar antes de servir."
+
+},
+{"nombrePostre" :"Mousse de maracuyá:",
+"ingredientes" :" 1 taza de pulpa de maracuyá, 1 lata de leche condensada, 1 lata de crema de leche, 1/2 taza de jugo de limón, 1 sobre de gelatina sin sabor.",
+"preparacion" :" En una olla, calentar la pulpa de maracuyá a fuego medio. Agregar la leche condensada, la crema de leche y el jugo de limón, y revolver bien. Agregar la gelatina sin sabor previamente disuelta en agua tibia, y mezclar bien. Verter la mezcla en copas individuales y refrigerar durante unas horas hasta que la mousse esté firme. Decorar con trozos de maracuyá antes de servir."
+
+},
+{"nombrePostre" :"Tarta de maracuyá y chocolate:",
+"ingredientes" :" 1 taza de galletas molidas, 1/4 taza de mantequilla derretida, 1 taza de pulpa de maracuyá, 1 lata de leche condensada, 1 taza de crema de leche, 1/2 taza de jugo de limón, 1 sobre de gelatina sin sabor, 1 taza de chocolate derretido.",
+"preparacion" :" Precalentar el horno a 180 grados Celsius. Mezclar las galletas molidas con la mantequilla derretida y presionar la mezcla en el fondo de un molde para tarta. En una olla, calentar la pulpa de maracuyá a fuego medio. Agregar la leche condensada, la crema de leche y el jugo de limón, y revolver bien. Agregar la gelatina sin sabor previamente disuelta en agua tibia, y mezclar bien. Dividir la mezcla en dos partes iguales."
+
+},
+{"nombrePostre" :"Piña colada sin alcohol:",
+"ingredientes" :" 1 taza de piña en cubos ,1/2 taza de leche de coco,1/2 taza de yogur griego, 1 cucharada de miel,1/2 taza de hielo picado",
+"preparacion" :" Colocar todos los ingredientes en una licuadora y mezclar hasta obtener una mezcla suave y homogénea. Verter en un vaso y servir inmediatamente."
+}
+]
+}
